@@ -32,7 +32,7 @@ const TodoLayout = () => {
         ></button>
         <button
           onClick={() => onClickSetColor("bg-dark")}
-          className="bg-dark p-3 rounded-circle outline-none border-0 shadow"
+          className="bg-black bg-opacity-75 p-3 rounded-circle outline-none border-0 shadow"
         ></button>
       </div>
     </div>
